@@ -49,14 +49,15 @@ A web-based library management system for managing books, users, and borrowing r
 
 ---
 
-### 🌞 Solar MPPT Controlled Lawn Mower
+### 🌞 Smart MPPT Controlled Lawn Mower
 
 - ESP32
 - Embedded C
 - MPPT
 - Ultrasonic Sensor
-- L298N Motor Driver
+- L298N Motor Driver & Dc Motors
 - Relay Module
+- Solar Panel
 
 An autonomous solar-powered lawn mower with MPPT-based power management and obstacle detection.
 
@@ -68,7 +69,7 @@ An autonomous solar-powered lawn mower with MPPT-based power management and obst
 
 🐙 **GitHub:** https://github.com/rathisri-a
 
-💼 **LinkedIn:** *(Add your LinkedIn URL)*
+💼 **LinkedIn:** www.linkedin.com/in/rathisri-a-
 
 ---
 
