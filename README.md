@@ -7,13 +7,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Final Year B.E. Electronics and Communication Engineering
-- 🌱 Currently learning **C, Python, Data Structures & Algorithms**
-- 💡 Interested in **Software Development, Embedded Systems & IoT**
-- 🔭 Building real-world projects using **ESP32** and **Web Technologies**
-- 🎯 Looking for Software Developer & Embedded Engineer roles
+-  Final Year B.E. Electronics and Communication Engineering
+-  Currently learning **C, Python, Data Structures & Algorithms**
+-  Interested in **Software Development, Embedded Systems & IoT**
+-  Building real-world projects using **ESP32** and **Web Technologies**
+-  Looking for Software Developer & Embedded Engineer roles
 
 ---
 
